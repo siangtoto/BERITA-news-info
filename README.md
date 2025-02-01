@@ -1,1 +1,1 @@
-# BERITA-news-info
+# Berita-news-info
